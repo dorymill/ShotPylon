@@ -7,3 +7,5 @@ platformio.ini
 .vscode/extensions.json
 include/README
 lib/README
+Board/ShotPylon-backups
+Board/fp-info-cache
